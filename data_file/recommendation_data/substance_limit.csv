@@ -1,0 +1,7 @@
+gender_timeframe,alcohol_(drink),tobacco,caffeine_(mg)
+men_limit_day,2,0,400
+women_limit_day,1,0,400
+men_limit_week,14,0,2800
+women_limit_week,7,0,2800
+men_limit_2_week,28,0,5600
+women_limit_2_week,14,0,5600

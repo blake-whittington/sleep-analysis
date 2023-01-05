@@ -1,0 +1,5 @@
+﻿bmi,status
+less_than_18.5,underweight
+18.5_24.9,healthy weight
+25.0_29.9,overweight
+30.0_or_over,obese
