@@ -5,7 +5,7 @@ This repository contains the code for our project "How Not To Put a Nation To Sl
 
 # "How Not To Put a Nation To Sleep" Repository 2022
 
-Collaborators: Blake Whittington & ghGabriele Spiridaviciute\
+Collaborators: Blake Whittington & Gabriele Spiridaviciute\
 
 Language:
 Python (3.9.7)
